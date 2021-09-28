@@ -1,0 +1,3 @@
+tensorflow-hub==0.12.0
+./tensorflow-2.5.1-cp38-cp38-linux_x86_64.whl
+./tensorflow_text-2.5.0-cp38-cp38-linux_x86_64.whl

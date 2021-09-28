@@ -1,4 +1,4 @@
-- Tensorflow 2.5.1 with no-avx from https://github.com/yaroslavvb/tensorflow-community-wheels/issues/200. Download it to the repo folder to build docker image with Dockerfile.
+- Tensorflow 2.5.1 with no-avx from https://github.com/yaroslavvb/tensorflow-community-wheels/issues/200
 - tensorflow-text 2.5.0 compiled with tf 2.5.1 above
 
 Docker image: https://hub.docker.com/r/sld3/tf-tf-hub-tf-text-no-avx
